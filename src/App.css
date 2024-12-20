@@ -1,0 +1,11 @@
+#root {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding:1%;
+  /* text-align: center; */
+}
+
+ html {
+    scroll-behavior: smooth;
+  }
+  
